@@ -21,7 +21,7 @@ class Services {
               children: const [
                 Flexible(
                   child: TextWidget(
-                    label: "chosen Modal: ",
+                    label: "chosen Modals: ",
                     fontSize: 16,
                   ),
                 ),
