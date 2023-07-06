@@ -1,4 +1,4 @@
-# cbot
+# Cbot
 
 A new Flutter project.
 
