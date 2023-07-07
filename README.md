@@ -1,6 +1,7 @@
 # Cbot
 
-A new Flutter project.
+
+<h2>The project is Under Development.</h2>
 
 ## Getting Started
 
